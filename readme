@@ -1,0 +1,94 @@
+HTML adalah : Hyper Text Markup Language atau bisa disebut juga dengan Penanda untuk membuat halaman web.
+Seperti contoh dibawah ini:
+
+<html>
+  <head>Tag, Atribut dan Elemen pada HTML (Kode HTML Lengkap)</head>
+  <body>
+    Daftar Kode HTML Lengkap (Tag HTML dan Fungsinya)
+    <!DOCTYPE>	Menentukan jenis dokumen
+    <html>	Pembuka dan penutup HTML
+    <head>	Menentukan informasi halaman
+    <title>	Menentukan judul halaman
+    <body>	Tempat menampilkan konten
+    <h1>..</h6>	Membuat judul teks
+    <p>	Menentukan paragraf
+    <hr>	Mebuat garis horizontal
+    <!–…–>	Membuat komentar
+    <b>	Menebalkan teks
+    <blockquote>	Menentukan kutipan dari sumber lain
+    <code>	Menentukan kode komputer
+    <em>	Membuat teks miring atau ditekankan
+    <i>	Membuat teks miring
+    <pre>	Menentukan teks diformat
+    <q>	Menentukan kutipan pendek
+    <s>	Mencoret teks
+    <small>	Menentukan teks yang lebih kecil
+    <strong>	Membuat teks tebal atau teks penting
+    <sub>	Menentukan teks langganan
+    <sup>	Menentukan teks superscript
+    <time>	Menentukan tanggal / waktu
+    <u>	Membuat teks garis bawah
+    <form>	Menentukan formulir HTML
+    <input>	Membuat form input
+    <textarea>	Membuat form teks yang lebih besar
+    <button>	Menentukan tombol yang dapat diklik
+    <select>	Menentukan daftar drop-down
+    <option>	Menentukan opsi dalam daftar drop-down
+    <label>	Menentukan label untuk elemen input
+    <iframe>	Menentukan bingkai inline
+    <img>	Menentukan gambar
+    <canvas>	Digunakan untuk menggambar grafik
+    <figure>	Menentukan konten mandiri
+    <svg>	Menentukan wadah untuk grafik SVG
+    <audio>	Menentukan konten suara
+    <source>	Menentukan banyak sumber multimedia
+    <a>	Mendefinisikan hyperlink
+    <link>	Menentukan hubungan antara dokumen dan sumber daya eksternal
+    <nav>	Menentukan link navigasi
+    <ul>	Menentukan daftar tidak terurut
+    <ol>	Menentukan daftar yang terurut
+    <li>	Menentukan item pada list
+    <dl>	Menentukan daftar deskripsi
+    <dt>	Menentukan istilah / nama dalam daftar deskripsi
+    <dd>	Menentukan deskripsi istilah / nama dalam daftar deskripsi
+    <table>	Menentukan tabel
+    <th>	Menentukan header dalam tabel
+    <tr>	Menentukan baris dalam tabel
+    <td>	Menentukan sel atau kotak dalam tabel
+    <thead>	Mengelompokkan konten header dalam sebuah tabel
+    <tbody>	Mengelompokkan konten isi dalam tabel
+    <tfoot>	Mengelompokkan konten footer dalam sebuah tabel
+    <style>	Menentukan informasi gaya untuk dokumen
+    <div>	Membagi halaman dalam blok
+    <span>	Membagi halaman dalam blok kecil
+    <header>	Menentukan header untuk bagian halaman
+    <footer>	Menentukan footer untuk bagian halaman
+    <main>	Menentukan konten utama halaman
+    <section>	Menentukan bagian dalam halaman
+    <artikel>	Menentukan artikel
+    <aside>	Menentukan konten selain dari konten halaman
+    <meta>	Menentukan metadata halaman
+    <script>	Menentukan skrip
+    <noscript>	Menentukan konten alternatif untuk pengguna yang tidak mendukung skrip
+    <embed>	Menentukan wadah untuk aplikasi eksternal
+    <object>	Menentukan objek yang disematkan
+    <caption>	Menentukan keterangan tabel
+    <cite>	Menentukan judul sebuah karya
+    <abbr>	Menentukan singkatan atau akronim
+  </body>
+</html>
+id	Menentukan id unik elemen.
+class	Menentukan nama class yang digunakan pada CSS.
+style	Menentukan gaya CSS secara inline (langsung).
+title	Menentukan tooltip atau teks saat mouse berada di atas elemen tersebut.
+accesskey	Menentukan tombol pintas untuk mengaktifkan / memfokuskan elemen.
+contenteditable	Menentukan apakah konten elemen dapat diedit atau tidak.
+data-*	Menyimpan data khusus pribadi ke halaman atau aplikasi.
+dir	Menentukan arah teks untuk konten dalam suatu elemen.
+draggable	Menentukan apakah suatu elemen dapat diseret atau tidak.
+dropzone	Menentukan zona drop pada aksi drag and drop.
+hidden	Menentukan bahwa suatu elemen tidak ditampilkan.
+lang	Menentukan bahasa konten elemen.
+spellcheck	Menentukan apakah elemen harus diperiksa ejaan dan tata bahasanya atau tidak.
+tabindex	Menentukan urutan tab dari suatu elemen.
+translate	Menentukan apakah konten elemen harus diterjemahkan atau tidak.
